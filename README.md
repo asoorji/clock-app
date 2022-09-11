@@ -1,16 +1,6 @@
-# clock_app
+# Clock App
 
-A new Flutter project.
+### Clock || Alarm || Timer || Stopwatch
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image-removebg-preview (11)](https://user-images.githubusercontent.com/42071241/189541375-f8f2e5de-345f-4aab-973c-9ca3f2d9d6a3.png)
+![image-removebg-preview (12)](https://user-images.githubusercontent.com/42071241/189541377-c499368e-9b89-425a-9cf4-70596b183ca7.png)
