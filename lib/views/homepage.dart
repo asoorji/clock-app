@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
                   if (value.menuType == MenuType.clock) {
                     return ClockPage();
                   } else if (value.menuType == MenuType.alarm) {
-                    return const AlarmPage();
+                    return AlarmPage();
                   } else {
                     return RichText(
                         text: TextSpan(
